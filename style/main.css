@@ -1,6 +1,14 @@
 body {background-color: rgb(66, 204, 158);
+/*the body command stlyes the overall body of my website.
+Will try to add more colors because I heard that is possible.*/
     font-size: large;
+/*do not have to input px sizes*/
     font-style: oblique;
     word-spacing: 40%;
     color: rgb(107, 16, 211);
-font-family: Verdana, Geneva, Tahoma, sans-serif;}
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+/*more interesting than the standard font*/
+    text-align: center;
+/*nicely alligned my text, made my website look much better without doing too much*/
+    text-decoration: wavy;}
+    /*hard to tell if actually inputed correctly*/
