@@ -1,1 +1,6 @@
-body {background-color: rgb(66, 204, 158);}
+body {background-color: rgb(66, 204, 158);
+    font-size: large;
+    font-style: oblique;
+    word-spacing: 40%;
+    color: rgb(107, 16, 211);
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
