@@ -16,7 +16,7 @@ body
         margin-left: 300px;
         margin-right: 300px;}
 .monet{
-        border: 10px;
+        border: 5px;
         border-style: dashed inset;
         border-color:indianred;
         border-radius: 3%;
@@ -28,7 +28,7 @@ body
         font-family:serif;
         font-size: 30px;}
 .references{
-        border: 10px;
+        border: 5px;
         border-style: dashed inset;
         border-color:indianred;
         border-radius: 3%;
